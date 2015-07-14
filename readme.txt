@@ -12,7 +12,7 @@ For whose missing Salvador, Bahia
 
 == Description ==
 
-= A very simple way to remember Salvador while working with WordPress :) =
+= A very fancy way to remember Salvador while working with WordPress :) =
 
 == Installation ==
 
